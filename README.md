@@ -66,16 +66,6 @@ I am an Information Systems student at UNIUBE and IT Analyst at BRK Agro, passio
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pmartinssdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmartinssdev&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🚀 Philosophy
 
